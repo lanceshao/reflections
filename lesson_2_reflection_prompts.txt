@@ -18,4 +18,6 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
 What are the difference between staging area, working directory and repository?
-data storing, initial directory, a full copy of the data change area
+Data storing, initial directory, a full copy of the data change area
+
+How to make sure using staging area to save all the change in file?
