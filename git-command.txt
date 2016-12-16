@@ -1,0 +1,13 @@
+Git Command List
+
+git clone [url]
+git log
+git diff [#1] [#2]
+git diff --staged
+git checkout [#1 / branch_name]
+
+git status
+git add [file_name]
+git commit [file_name]
+
+git branch [branch_name_create]
