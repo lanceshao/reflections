@@ -16,3 +16,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+What are the difference between staging area, working directory and repository?
+data storing, initial directory, a full copy of the data change area
