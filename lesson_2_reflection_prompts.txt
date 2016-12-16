@@ -21,3 +21,5 @@ What are the difference between staging area, working directory and repository?
 Data storing, initial directory, a full copy of the data change area
 
 How to make sure using staging area to save all the change in file?
+
+"Special use for branch learning!!!!!!!!!!"
