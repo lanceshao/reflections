@@ -4,7 +4,8 @@ git clone [url]
 git log
 git diff [#1] [#2]
 git diff --staged
-git checkout [#1 / branch_name]
+git checkout [#id / branch_name]
+git show [#id]
 
 git status
 git add [file_name]
