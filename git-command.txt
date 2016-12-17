@@ -12,5 +12,4 @@ git commit [file_name]
 
 git branch [branch_name_create]
 git log --graph --oneline [branch #1] [branch #2]
-
-##testing for branch merging
+git merge [branch1] [branch2]
